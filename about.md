@@ -14,4 +14,4 @@ That shop eventually failed to win new development contracts and laid off all bu
 
 I'm still living in Asheville and determined to make it work for me, despite the city not being so much a hub of software engineering jobs for anyone still in the first half-decade of their career. I'm working in a deli part time, to my horror, and spending my free time shaping up my development skills while I find where my next software job will be. 
 
-So if you find yourself thinking, "so what's with the blog?", I hope this answers your question: if I keep track of my work and where it's taking me, I'm going to be more focused and ultimately build more confident as a developer. Which strikes me as pretty worthwhile, all said and done.
+So if you find yourself thinking, "so what's with the blog?", I hope this answers your question: if I keep track of my work and where it's taking me, I'm going to be more focused and ultimately build more confidence as a developer. Which strikes me as pretty worthwhile, all said and done.

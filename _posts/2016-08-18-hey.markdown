@@ -13,3 +13,4 @@ def hamilton(alexander)
   print "how does a bastard, orphan, son of a whore and a scotsman..."
 end
 ```
+{% include how_it_works.md %}
